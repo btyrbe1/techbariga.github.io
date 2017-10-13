@@ -1,0 +1,34 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: About
+      link: /about/
+    - name: Services
+      link: /services/
+    - name: Contact
+      link: /contact/
+    - name: Blog
+      link: /blog/
+- title: Social
+  links:
+    - name: Facebook
+      link: https://web.facebook.com/techbariga/
+      social_icon: Facebook
+      new_window: true
+    - name: Twitter
+      link: https://twitter.com/techbariga/
+      social_icon: Twitter
+      new_window: true
+    - name: Google+
+      link: https://plus.google.com/techbariga/
+      social_icon: Google Plus
+      new_window: true
+    - name: LinkedIn
+      link: https://linkedin.com/techbariga/
+      social_icon: LinkedIn
+      new_window: true
+    - name: Github
+      link: https://github.com/techbariga/
+      social_icon: Github
+      new_window: true

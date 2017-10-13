@@ -1,0 +1,35 @@
+---
+title: 
+call_to_action: Contact
+background_image_path:
+large_header: true
+testimonials:
+  - message: We use TechBariga for all our web savvy projects. They offer an unparalleled service when it comes to running a business online.
+    image: <!-- "//placekitten.com/g/60/60?a=.png" -->
+    name: Isaac
+  - message: TechBariga the caters for all our IT based needs. Being local, they care about people and have strong ties to the community.
+    image: <!-- "//fillmurray.com/60/60?a=.png" -->
+    name: MakinChops
+  - message: Give these guyz a trial is what I will say.
+    image: <!-- "//placebear.com/60/60?a=.png" -->
+    name: ThatYellowGuy
+_options:
+  image:
+    width: 60
+    height: 60
+---
+
+<div class="editable">
+	<p>All we do is <strong>Tech</strong>. Techbariga is a tech agency located in a vital part of Lagos, Nigeria. We partner with both small and enterprise organisations as well as indiviuals to deliver quality technological services.</p>
+
+	<p>Don't be fooled by our name though, it's coined on purpose; ...</p>
+</div>
+
+<div class="testimonials">
+	{% for testimonial in page.testimonials %}
+		<blockquote class="testimonial">
+			<p class="testimonial-message">{{ testimonial.message }}</p>
+			<p class="testimonial-author"><img src="{% include relative-src.html src=testimonial.image %}" alt="Photo of {{ testimonial.name }}"> {{ testimonial.name }}</p>
+		</blockquote>
+	{% endfor %}
+</div>
