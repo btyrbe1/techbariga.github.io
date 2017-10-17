@@ -24,11 +24,11 @@
       link: https://plus.google.com/techbariga/
       social_icon: Google Plus
       new_window: true
-    - name: LinkedIn
-      link: https://linkedin.com/techbariga/
-      social_icon: LinkedIn
-      new_window: true
-    - name: Github
-      link: https://github.com/techbariga/
-      social_icon: Github
-      new_window: true
+    # - name: LinkedIn
+    #   link: https://linkedin.com/techbariga/
+    #   social_icon: LinkedIn
+    #   new_window: true
+    # - name: Github
+    #   link: https://github.com/techbariga/
+    #   social_icon: Github
+    #   new_window: true

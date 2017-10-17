@@ -1,8 +1,8 @@
 ---
-name: Elijah Joseph
+name: Joseph Elijah
 image: "/images/eli.png"
 credentials: Social Media
 phone_extension: ""
 ---
 
-Elijah is in charge of social media.
+Social Media Analyst/Intergrator And Management.

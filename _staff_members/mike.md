@@ -5,4 +5,4 @@ credentials: CEO
 phone_extension: ""
 ---
 
-Co-founder/CEO of Tech Bariga.
+CEO Tech Bariga.

@@ -5,7 +5,7 @@ title: Tech Bariga
 url: "https://technari.ga"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyBPuPYbd2BGkGkjKM_XX1Pho8bMpDVg7Fg
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
